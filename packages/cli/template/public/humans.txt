@@ -1,0 +1,16 @@
+/* TEAM */
+Built with Open Meetup
+by Bitcoin Bay Foundation
+Site: https://bitcoinbay.foundation
+GitHub: https://github.com/ArcadeLabsInc/open-meetup
+
+/* TECHNOLOGY */
+Next.js, React, Tailwind CSS, TypeScript
+Hosted on Vercel
+Payments via Zaprite
+Email via Resend
+Maps via BTC Map
+
+/* SITE */
+Standards: HTML5, CSS3, ES2022
+Software: Open Meetup by Bitcoin Bay Foundation

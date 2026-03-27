@@ -1,0 +1,9 @@
+{
+  "name": "@bitcoinbay/open-meetup-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter template dev",
+    "build": "pnpm --filter template build",
+    "cli": "pnpm --filter @bitcoinbay/open-meetup"
+  }
+}
